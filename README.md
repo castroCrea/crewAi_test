@@ -12,10 +12,10 @@ deactivate
 ## Script
 
 ```bash
-# test
+# Test
 python startup_crew.py 
-# make you ask question about life
+# Make you ask question about life
 python ask_question_about_life.py
-# Whit google
+# with google
 python ask_question_about_life_online.py
 ```
