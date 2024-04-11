@@ -1,4 +1,6 @@
-# MArket script to help in invest
+# CrewAi test
+
+Ask a question about life to an Psychologist, coach and Life Journalist AI
 
 ## install
 
