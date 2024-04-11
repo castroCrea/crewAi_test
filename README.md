@@ -16,6 +16,6 @@ deactivate
 python startup_crew.py 
 # Make you ask question about life
 python ask_question_about_life.py
-# with google
+# With google
 python ask_question_about_life_online.py
 ```
